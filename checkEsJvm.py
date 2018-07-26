@@ -163,3 +163,5 @@ def get_json(uri):
 
 if __name__ == '__main__':
     ElasticSearchJvmCheck().run()
+
+# test in COE environment first
